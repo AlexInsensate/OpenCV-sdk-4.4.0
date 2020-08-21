@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/663986357/data.iml" filepath="$PROJECT_DIR$/.idea/modules/663986357/data.iml" group="eVorsorge/data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1846513905/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1846513905/domain.iml" group="eVorsorge/domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1026173404/eVorsorge.iml" filepath="$PROJECT_DIR$/.idea/modules/-1026173404/eVorsorge.iml" group="eVorsorge" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCV-sdk-4.4.0.iml" filepath="$PROJECT_DIR$/.idea/modules/openCV-sdk-4.4.0.iml" group="eVorsorge/openCV-sdk-4.4.0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1553954085/presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/1553954085/presentation.iml" group="eVorsorge/presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1588252834/scaner-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/1588252834/scaner-sdk.iml" group="eVorsorge/scaner-sdk" />
+    </modules>
+  </component>
+</project>

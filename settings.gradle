@@ -1,0 +1,2 @@
+include ':openCV-sdk-4.4.0'
+rootProject.name = "OpenCV-sdk-4.4.0"
